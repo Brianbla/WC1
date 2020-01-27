@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/isvalmsig/WC1/_apis/build/status/Brianbla.WC1?branchName=master)](https://dev.azure.com/isvalmsig/WC1/_build/latest?definitionId=85&branchName=master)
+
 # Introduction 
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
